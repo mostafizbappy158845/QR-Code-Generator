@@ -43,6 +43,6 @@ Anyone can generate Own QR Code by paste a url or enter any text.
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/NsBpH4q)
-![App Screenshot](https://ibb.co/zNcWcv6)
+![App Screenshot](https://i.ibb.co/SRVTM7S/QR-code2-2022-09-18-011541.jpg)
+![App Screenshot](https://i.ibb.co/qpqtWxp/QR-code-2022-09-18-011541.jpg)
 
